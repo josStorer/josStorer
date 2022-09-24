@@ -1,6 +1,6 @@
 ## Recent Activity
 [Comments](https://github.com/search?q=commenter%3AjosStorer) | 
-[Pull Requests](https://github.com/search?q=author%3AjosStorer+is%3Apr&type=issues) | 
+[Pull Requests](https://github.com/search?q=author%3AjosStorer+is%3Apr+-user%3AjosStorer&type=issues) | 
 [Issues](https://github.com/search?q=author%3AjosStorer+is%3Aissue&type=issues)
 
 ## Status
