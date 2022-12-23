@@ -1,7 +1,9 @@
 ## Recent Activity
-[Comments](https://github.com/search?q=commenter%3AjosStorer) | 
+[Issues](https://github.com/search?q=author%3AjosStorer+is%3Aissue&type=issues) | 
+[Issue Comments](https://github.com/search?q=commenter%3AjosStorer) | 
 [Pull Requests](https://github.com/search?q=author%3AjosStorer+is%3Apr+-user%3AjosStorer&type=issues) | 
-[Issues](https://github.com/search?q=author%3AjosStorer+is%3Aissue&type=issues)
+[Discussions](https://github.com/discussions?discussions_q=author%3AjosStorer) | 
+[Discussion Comments](https://github.com/discussions?discussions_q=commenter%3AjosStorer)
 
 ## Status
 <!-- Light Mode -->
