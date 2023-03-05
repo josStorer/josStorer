@@ -1,5 +1,5 @@
 ## About Me
-During my undergraduate studies, I learned about AI and embedded systems. In my free time, I self-studied Unity3D. However, due to some special reasons, I turned to Unreal Engine and I am currently developing my own independent game.
+During my undergraduate studies, I learned about AI and embedded systems and self-studied Unity3D in my free time. However, due to some special reasons, I turned to Unreal Engine and I am currently developing my own independent game.
 
 ## Recent Activity
 [Issues](https://github.com/search?q=author%3AjosStorer+is%3Aissue&type=issues) | 
