@@ -2,11 +2,12 @@
 During my undergraduate studies, I learned about AI and embedded systems and self-studied Unity3D in my free time. However, due to some special reasons, I turned to Unreal Engine and I am currently developing my own independent game.
 
 ## Recent Activity
-[Issues](https://github.com/search?q=author%3AjosStorer+is%3Aissue&type=issues) | 
-[Issue Comments](https://github.com/search?q=commenter%3AjosStorer) | 
-[Pull Requests](https://github.com/search?q=author%3AjosStorer+is%3Apr+-user%3AjosStorer&type=issues) | 
-[Discussions](https://github.com/discussions?discussions_q=author%3AjosStorer) | 
-[Discussion Comments](https://github.com/discussions?discussions_q=commenter%3AjosStorer)
+[Issues](https://github.com/search?q=author%3AjosStorer&type=issues) | 
+[Issue Comments](https://github.com/search?q=commenter%3AjosStorer&type=issues) | 
+[Pull Requests](https://github.com/search?q=author%3AjosStorer+-user%3AjosStorer&type=pullrequests) | 
+[Pull Request Comments](https://github.com/search?q=commenter%3AjosStorer&type=pullrequests) | 
+[Discussions](https://github.com/search?q=author%3AjosStorer&type=discussions) | 
+[Discussion Comments](https://github.com/search?q=commenter%3AjosStorer&type=discussions)
 
 ## Status
 <!-- Light Mode -->
